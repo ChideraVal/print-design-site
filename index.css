@@ -215,7 +215,7 @@ main {
 
 /* HERO */
 .hero {
-    min-height: 60vh;
+    /* min-height: 60vh; */
     display: grid;
     grid-template-columns: 1fr 420px;
     gap: 28px;
